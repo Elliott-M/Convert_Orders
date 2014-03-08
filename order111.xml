@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<order>
-    <OrderNum>111</OrderNum>
-    <FName>John</FName>
-    <LName>Green</LName>
-    <ItemID>12344321</ItemID>
-    <Price>12.00</Price>
-    <Quantity>4</Quantity>
-</order>
